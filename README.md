@@ -14,25 +14,6 @@
   <h3>AI Service Engineer | LLM-Based Systems Developer</h3>
   
   <br>
-  
-  ### 🎯 About Me
-  
-  ```typescript
-    role: "AI Engineer",
-    specialty: "LLM-based Service Development & Automation",
-    education: "Ajou University (AI Convergence + e-Business)",
-    languages: ["Korean (Native)", "English (Fluent)", "Spanish (Fluent)"],
-    
-    achievements: {
-      fieldU: "100% cost reduction via LLM automation",
-      turbinCrew: "Built IoT → AWS → ML data pipeline",
-      snackCast: "AI-powered news podcast generation service"
-    },
-    
-    seeking: ["AI/ML Engineer", "LLM Service Engineer", "Data Engineer"],
-    motto: "Transforming AI models into measurable business impact 💡"
-  ```
-  
   <br>
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHectorSin&count_bg=%23667EEA&title_bg=%23764BA2&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -41,7 +22,31 @@
 
 <br>
 
-<h2 align="center">🤖 LLM & AI Services (Core Expertise)</h2>
+## 🎯 About Me
+
+| | |
+|---|---|
+| **Role** | AI Engineer |
+| **Specialty** | LLM-based Service Development & Automation |
+| **Education** | Ajou University (AI Convergence + e-Business) |
+| **Languages** | Korean (Native), English (Fluent), Spanish (Fluent) |
+| **Currently Seeking** | AI/ML Engineer, LLM Service Engineer, Data Engineer |
+
+### 💡 Key Achievements
+
+**FieldU** - 100% cost reduction via LLM automation
+
+**TurbinCrew** - Built IoT → AWS → ML data pipeline  
+
+**SnackCast** - AI-powered news podcast generation service
+
+> **Motto**: *"Transforming AI models into measurable business impact"*
+  
+</div>
+
+<br>
+
+## 🤖 LLM & AI Services (Core Expertise)
 
 <div align="center">
 
@@ -90,7 +95,7 @@
 
 <br>
 
-<h2 align="center">💻 Backend & Infrastructure</h2>
+## 💻 Backend & Infrastructure
 
 <div align="center">
 
@@ -146,7 +151,7 @@
 
 <br>
 
-<h2 align="center">💼 Professional Experience & Projects</h2>
+## 💼 Professional Experience & Projects
 
 <div align="center">
 
@@ -247,7 +252,7 @@ Built FastAPI backend deployed on GCP Cloud Run for scalable service delivery
 
 <br>
 
-<h2 align="center">🏆 Achievements & Activities</h2>
+## 🏆 Achievements & Activities
 
 <div align="center">
 
@@ -264,7 +269,7 @@ Built FastAPI backend deployed on GCP Cloud Run for scalable service delivery
 
 <br>
 
-<h2 align="center">📊 GitHub Stats</h2>
+## 📊 GitHub Stats
 
 <div align="center">
   
@@ -280,7 +285,7 @@ Built FastAPI backend deployed on GCP Cloud Run for scalable service delivery
 
 <br>
 
-<h2 align="center">📫 Contact & Links</h2>
+## 📫 Contact & Links
 
 <div align="center">
   
@@ -312,7 +317,7 @@ Built FastAPI backend deployed on GCP Cloud Run for scalable service delivery
 
 <br>
 
-<h2 align="center">🎓 Education</h2>
+## 🎓 Education
 
 <div align="center">
 
