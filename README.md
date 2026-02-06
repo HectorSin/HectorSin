@@ -1,60 +1,76 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&text=AI%20Engineer&animation=fadeIn&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=LLM%20기반%20실무%20서비스%20개발자&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&text=AI%20Engineer&animation=fadeIn&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Building%20Production-Ready%20LLM%20Services&descAlignY=55&descSize=18" />
 </div>
 
 <div align="center">
-  <h1>👋 안녕하세요, 신재현입니다!</h1>
-  <h3>AI 서비스 엔지니어 | LLM 기반 시스템 개발</h3>
+  
+  [![English](https://img.shields.io/badge/Language-English-blue?style=for-the-badge)](README.md)
+  [![한국어](https://img.shields.io/badge/언어-한국어-red?style=for-the-badge)](README_KR.md)
+  
+</div>
+
+<div align="center">
+  <h1>👋 Hi, I'm Jaehyun Shin!</h1>
+  <h3>AI Service Engineer | LLM-Based Systems Developer</h3>
   
   <br>
   
-  ### 🎯 소개
+  ### 🎯 About Me
   
   ```typescript
-  const 신재현 = {
-    직무: "AI Engineer",
-    전문분야: "LLM 기반 서비스 개발 및 자동화",
-    학력: "아주대학교 (AI융합학부 + e비즈니스학과 복수전공)",
-    언어: ["한국어 (모국어)", "영어 (유창)", "스페인어 (유창)"],
+  const jaehyun = {
+    role: "AI Engineer",
+    specialty: "LLM-based Service Development & Automation",
+    education: "Ajou University (AI Convergence + e-Business)",
+    languages: ["Korean (Native)", "English (Fluent)", "Spanish (Fluent)"],
     
-    주요성과: {
-      FieldU: "LLM 자동화로 콘텐츠 제작 비용 100% 절감",
-      TurbinCrew: "IoT → AWS → ML 데이터 파이프라인 구축",
-      SnackCast: "AI 뉴스 팟캐스트 자동 생성 서비스"
+    achievements: {
+      fieldU: "100% cost reduction via LLM automation",
+      turbinCrew: "Built IoT → AWS → ML data pipeline",
+      snackCast: "AI-powered news podcast generation service"
     },
     
-    구직중: ["AI/ML 엔지니어", "LLM 서비스 엔지니어", "데이터 엔지니어"],
-    모토: "AI 모델을 측정 가능한 비즈니스 성과로 전환 💡"
+    seeking: ["AI/ML Engineer", "LLM Service Engineer", "Data Engineer"],
+    motto: "Transforming AI models into measurable business impact 💡"
   };
   ```
   
   <br>
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHectorSin&count_bg=%23667EEA&title_bg=%23764BA2&icon=github.svg&icon_color=%23FFFFFF&title=방문자+수&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHectorSin&count_bg=%23667EEA&title_bg=%23764BA2&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
   
 </div>
 
 <br>
 
-## 🤖 LLM & AI 서비스 (핵심 역량)
+<h2 align="center">🤖 LLM & AI Services (Core Expertise)</h2>
 
 <div align="center">
 
-### 🎨 LLM API & 모델
-
+### 🎨 LLM APIs & Models
+  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Claude_API-181818?style=for-the-badge&logo=anthropic&logoColor=white)
 
-**사용 경험:**
-- ✅ **Gemini API** - FieldU 콘텐츠 생성 파이프라인 핵심
-- ✅ **Perplexity API** - SnackCast 뉴스 수집
-- ✅ **OpenAI GPT-4** - 프로젝트 프로토타이핑
-- ✅ **Claude API** - 고품질 텍스트 생성
-- ✅ **Naver Clova TTS** - 음성 합성 (SnackCast)
+</div>
 
-### 🔗 AI 프레임워크 & 기술
+**Hands-on Experience:**
+
+**Gemini API** - Core technology for FieldU content generation pipeline
+
+**Perplexity API** - News collection system for SnackCast
+
+**OpenAI GPT-4** - Rapid project prototyping and experimentation
+
+**Claude API** - High-quality text generation and analysis
+
+**Naver Clova TTS** - Voice synthesis integration for SnackCast podcast
+
+<div align="center">
+
+### 🔗 AI Frameworks & Technologies
 
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/🔍_RAG-4CAF50?style=for-the-badge)
@@ -62,45 +78,60 @@
 
 </div>
 
-**💡 핵심 기술:**
-- ✅ **Multi-LLM 통합 및 오케스트레이션** - 여러 LLM API를 조합한 워크플로우
-- ✅ **콘텐츠 생성 파이프라인** - 대규모 자동화 시스템 구축
-- ✅ **RAG (Retrieval-Augmented Generation)** - 검색 기반 답변 생성
-- ✅ **비용 최적화 및 토큰 관리** - 실무 프로덕션 환경 고려
-- ✅ **프로덕션 API 설계** - 안정적이고 확장 가능한 서비스
+**💡 Key Capabilities:**
+
+**Multi-LLM Integration & Orchestration** - Combining multiple LLM APIs into cohesive workflows
+
+**Content Generation Pipelines** - Building large-scale automation systems with quality control
+
+**RAG (Retrieval-Augmented Generation)** - Search-based answer generation with vector databases
+
+**Cost Optimization & Token Management** - Production environment efficiency and monitoring
+
+**Production API Design** - Stable and scalable service architecture
 
 <br>
 
-## 💻 백엔드 & 인프라
+<h2 align="center">💻 Backend & Infrastructure</h2>
 
 <div align="center">
 
-### 🌐 백엔드 개발
+### 🌐 Backend Development
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### ☁️ 클라우드 & DevOps
+### ☁️ Cloud & DevOps
 
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-**클라우드 경험:**
-- **GCP**: Cloud Run, Cloud Storage (SnackCast 배포)
-- **AWS**: IoT Core, Lambda (TurbinCrew 데이터 파이프라인)
+</div>
 
-### 🗄️ 데이터베이스
+**Cloud Experience:**
+
+**GCP**: Cloud Run and Cloud Storage for SnackCast production deployment
+
+**AWS**: IoT Core and Lambda for TurbinCrew real-time data pipeline
+
+<div align="center">
+
+### 🗄️ Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Vector DB:** Chroma, Pinecone (RAG 시스템용)
+</div>
 
-### 🛠️ 개발 도구
+**Vector Databases:** Chroma, Pinecone (for RAG systems)
+
+<div align="center">
+
+### 🛠️ Development Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -108,7 +139,7 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🔬 머신러닝 & 딥러닝
+### 🔬 Machine Learning & Deep Learning
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -117,106 +148,125 @@
 
 <br>
 
-## 💼 실무 경험 & 프로젝트
+<h2 align="center">💼 Professional Experience & Projects</h2>
 
 <div align="center">
 
-### 🚀 임팩트 중심 프로젝트
+### 🚀 Impact-Driven Projects
+
+| Project | Role | Key Achievement | Tech Stack |
+|---------|------|-----------------|------------|
+| **FieldU** 📚 | AI Service Intern | **100% cost reduction** in content generation | Gemini API, LangChain, Python |
+| **TurbinCrew** ⚡ | AI Service Intern | Built **IoT → Cloud → ML pipeline** | AWS IoT Core, Lambda, Python |
+| **SnackCast** 📻 | Lead Developer | **AI news-to-podcast automation** | FastAPI, GCP, Multi-LLM APIs |
 
 </div>
 
-| 프로젝트 | 역할 | 주요 성과 | 기술 스택 |
-|---------|------|-----------|-----------|
-| **FieldU** 📚 | AI 서비스 인턴 | **콘텐츠 제작 비용 100% 절감** | Gemini API, LangChain, Python |
-| **TurbinCrew** ⚡ | AI 서비스 인턴 | **IoT → 클라우드 → ML 파이프라인 구축** | AWS IoT Core, Lambda, Python |
-| **SnackCast** 📻 | 리드 개발자 | **AI 뉴스-팟캐스트 자동화 서비스** | FastAPI, GCP, Multi-LLM APIs |
-
 <details>
-<summary><b>📚 FieldU - 교육 AI 스타트업 (인턴)</b></summary>
+<summary><b>📚 FieldU - Educational AI Startup (Internship)</b></summary>
 
 <br>
 
-**🎯 과제:** 수작업 콘텐츠 제작이 시간과 비용 소모
+**🎯 Challenge:** Manual content creation was time-consuming and costly
 
-**💡 솔루션:** LLM 기반 콘텐츠 자동 생성 파이프라인 구축
+**💡 Solution:** Built automated LLM-based content generation pipeline
 
-**📊 성과:**
-- ✅ **비용 100% 절감** - 자동화를 통한 완전한 비용 제거
-- ✅ **시간 50% 단축** - 콘텐츠 제작 프로세스 최적화
-- ✅ 확장 가능한 다단계 AI 워크플로우 및 품질 관리 시스템
+**📊 Results:**
 
-**🔧 기술 하이라이트:**
-- Gemini API + 커스텀 프롬프팅 전략
-- LangChain을 활용한 다단계 콘텐츠 정제
-- 자동화된 품질 보증 파이프라인
+Achieved **100% cost reduction** through complete automation of content creation workflows
+
+Delivered **50% time savings** in content production process through optimized AI pipeline
+
+Built scalable multi-step AI workflow with integrated quality control mechanisms
+
+**🔧 Technical Highlights:**
+
+Implemented Gemini API integration with custom prompting strategies for domain-specific content
+
+Utilized LangChain for sophisticated multi-step content refinement and validation
+
+Designed automated quality assurance pipeline ensuring consistent output standards
 
 </details>
 
 <details>
-<summary><b>⚡ TurbinCrew - 에너지 테크 스타트업 (인턴)</b></summary>
+<summary><b>⚡ TurbinCrew - Energy Tech Startup (Internship)</b></summary>
 
 <br>
 
-**🎯 과제:** IoT 센서 데이터로 풍력 발전량 실시간 예측
+**🎯 Challenge:** Real-time wind power prediction from IoT sensors
 
-**💡 솔루션:** 센서부터 ML 모델까지 End-to-End 데이터 파이프라인
+**💡 Solution:** End-to-end data pipeline from sensors to ML models
 
-**📊 성과:**
-- ✅ **AWS IoT Core → Lambda → ML 모델** 통합 완료
-- ✅ 실시간 데이터 처리 및 예측 시스템 구축
-- ✅ 베트남 ELECS 2024 전시회에서 **3개 MOU 체결** 기여
+**📊 Results:**
 
-**🔧 기술 하이라이트:**
-- IoT 센서 데이터 수집 및 전처리
-- AWS 클라우드 인프라 설계 및 구현
-- 국제 비즈니스 기술 발표 경험
+Successfully integrated **AWS IoT Core → Lambda → ML models** for end-to-end data flow
+
+Deployed real-time data processing and prediction system for wind power forecasting
+
+Contributed technical expertise to **3 MOUs** signed at Vietnam ELECS 2024 exhibition
+
+**🔧 Technical Highlights:**
+
+Architected IoT sensor data collection and preprocessing infrastructure
+
+Designed and implemented AWS cloud infrastructure for scalable ML deployment
+
+Delivered international business technical presentations to Southeast Asian partners
 
 </details>
 
 <details>
-<summary><b>📻 SnackCast - AI 뉴스 팟캐스트 (캡스톤 프로젝트)</b></summary>
+<summary><b>📻 SnackCast - AI News Podcast (Capstone Project)</b></summary>
 
 <br>
 
-**🎯 과제:** 뉴스 큐레이션 → 대본 생성 → 팟캐스트 제작 전 과정 자동화
+**🎯 Challenge:** Automate entire flow: news curation → script generation → podcast creation
 
-**💡 솔루션:** Multi-API 오케스트레이션 파이프라인
+**💡 Solution:** Multi-API orchestration pipeline
 
-**📊 성과:**
-- ✅ **GCP 프로덕션 배포** 완료
-- ✅ 뉴스 → 대본 → 음성 End-to-End 자동화
-- ✅ 멀티모달 AI 통합 (텍스트 + 음성)
+**📊 Results:**
 
-**🔧 기술 하이라이트:**
-- Perplexity API - 뉴스 수집
-- Gemini API - 대본 생성
-- Naver Clova TTS - 음성 합성
-- FastAPI 백엔드 + GCP Cloud Run
+Completed **production deployment** on Google Cloud Platform infrastructure
 
-**🔗 링크:** [프로젝트 상세 보기](#) *(추후 추가)*
+Achieved end-to-end automation pipeline: News gathering → Script generation → Audio synthesis
+
+Successfully integrated multi-modal AI components combining text and voice technologies
+
+**🔧 Technical Highlights:**
+
+Utilized Perplexity API for intelligent news gathering and curation
+
+Leveraged Gemini API for context-aware podcast script generation
+
+Integrated Naver Clova TTS for natural-sounding Korean voice synthesis
+
+Built FastAPI backend deployed on GCP Cloud Run for scalable service delivery
+
+**🔗 Link:** [View Project Details](#) *(Coming soon)*
 
 </details>
 
 <br>
 
-## 🏆 주요 활동 & 성과
+<h2 align="center">🏆 Achievements & Activities</h2>
 
 <div align="center">
 
-| 분야 | 내용 |
-|------|------|
-| 🎯 **알고리즘** | 백준 온라인 저지 활동 |
-| 🤖 **ML 대회** | Open Ko-LLM Leaderboard Season 3 참여 |
-| 📝 **기술 콘텐츠** | LinkedIn AI 트렌드 포스팅<br>(AI Agents, RAG, LLM 최신 동향) |
-| 👥 **리더십** | Friends 문화교류 동아리 회장<br>COVID-19 기간 중 **4명 → 130명** 성장 |
-| 🌍 **글로벌 경험** | 멕시코 (2002-2004), 아르헨티나 (2011-2014) 거주 |
-| 🎤 **크리에이티브** | 성우 및 더빙 경험 |
+| Category | Achievement |
+|----------|-------------|
+| 🎯 **Competitive Programming** | Active on Baekjoon Online Judge |
+| 🤖 **ML Competitions** | Open Ko-LLM Leaderboard Season 3 Participant |
+| 📝 **Technical Writing** | LinkedIn AI content creator<br>(AI Agents, RAG, LLM trends) |
+| 👥 **Leadership** | President of Friends Cultural Exchange Club<br>**4 → 130 members** growth during COVID-19 |
+| 🌍 **International Experience** | Lived in Mexico (2002-2004), Argentina (2011-2014) |
+| 🎤 **Voice Acting** | Dubbing & voice acting experience |
 
 </div>
 
 <br>
 
-## 📊 GitHub 통계
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   
@@ -232,7 +282,7 @@
 
 <br>
 
-## 📫 연락처
+<h2 align="center">📫 Contact & Links</h2>
 
 <div align="center">
   
@@ -242,32 +292,35 @@
   
   <br>
   
-  ### 🌟 현재 구직 중
+  ### 🌟 Currently Seeking Opportunities
   
   ```
-  🔍 AI/ML 엔지니어
-  🔍 LLM 서비스 엔지니어
-  🔍 데이터 엔지니어
+  🔍 AI/ML Engineer
+  🔍 LLM Service Engineer
+  🔍 Data Engineer
   ```
   
-  ### 💭 현재 관심사
-  
-  - 🔭 측정 가능한 ROI를 제공하는 프로덕션 LLM 애플리케이션 개발
-  - 🌱 고급 RAG 기술 및 멀티 에이전트 시스템 탐구
-  - 💬 기술 콘텐츠를 통한 한국 AI 커뮤니티 기여
-  - 🎯 AI 연구와 실제 비즈니스 가치의 가교 역할
+  ### 💭 Current Focus
   
 </div>
 
+🔭 Building production-ready LLM applications with measurable ROI and business impact
+
+🌱 Exploring advanced RAG techniques and multi-agent systems for complex workflows
+
+💬 Contributing to Korean AI community through technical content and knowledge sharing
+
+🎯 Bridging the gap between cutting-edge AI research and real-world business value
+
 <br>
 
-## 🎓 학력
+<h2 align="center">🎓 Education</h2>
 
 <div align="center">
 
-**아주대학교** (2026년 2월 졸업)
-- **AI융합학부** (주전공)
-- **e비즈니스학과** (복수전공)
+**Ajou University** (Feb 2026)
+
+B.S. in **AI Convergence** (Major) | B.S. in **e-Business** (Double Major)
 
 </div>
 
@@ -277,19 +330,11 @@
 
 <div align="center">
   
-  ### 📌 재미있는 사실
+  ### 📌 Fun Fact
   
-  > "3개국(한국 🇰🇷, 멕시코 🇲🇽, 아르헨티나 🇦🇷)에서 성장하며  
-  > 3개 언어를 유창하게 구사하고,  
-  > 이제는 기계에게도 말하는 법을 가르칩니다! 🤖"
-  
-  <br>
-  
-  ### 💼 이력서 & 자소서 작성 원칙
-  
-  > "**두괄식 구성** (결론 → 사례)  
-  > **단락별 1개 내용**  
-  > **경험에서 배운 점 + 회사 기여도 필수**"
+  > "Grew up in 3 countries (Korea 🇰🇷, Mexico 🇲🇽, Argentina 🇦🇷),  
+  > speak 3 languages fluently,  
+  > and now I teach machines to speak too! 🤖"
   
   <br>
   
