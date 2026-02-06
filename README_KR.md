@@ -13,10 +13,10 @@
   <h1>👋 안녕하세요, 신재현입니다!</h1>
   <h3>AI 서비스 엔지니어 | LLM 기반 시스템 개발</h3>
   
-  <br>
+  <!-- <br>
   <br>
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHectorSin&count_bg=%23667EEA&title_bg=%23764BA2&icon=github.svg&icon_color=%23FFFFFF&title=방문자+수&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHectorSin&count_bg=%23667EEA&title_bg=%23764BA2&icon=github.svg&icon_color=%23FFFFFF&title=방문자+수&edge_flat=false)](https://hits.seeyoufarm.com) -->
   
 </div>
 
@@ -273,10 +273,10 @@ Google Cloud Platform 인프라 상에서 **프로덕션 배포** 완료
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=HectorSin&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff" width="48%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=HectorSin&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorSin&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff&langs_count=6" width="48%" />
   
-  <br><br>
+  <br><br> -->
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HectorSin&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=764ba2&currStreakLabel=764ba2" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HectorSin&theme=radical" width="98%" />
