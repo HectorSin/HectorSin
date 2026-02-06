@@ -18,7 +18,6 @@
   ### 🎯 About Me
   
   ```typescript
-  const jaehyun = {
     role: "AI Engineer",
     specialty: "LLM-based Service Development & Automation",
     education: "Ajou University (AI Convergence + e-Business)",
@@ -32,7 +31,6 @@
     
     seeking: ["AI/ML Engineer", "LLM Service Engineer", "Data Engineer"],
     motto: "Transforming AI models into measurable business impact 💡"
-  };
   ```
   
   <br>
