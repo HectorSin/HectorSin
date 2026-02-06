@@ -28,8 +28,8 @@
 |---|---|
 | **Role** | AI Engineer |
 | **Specialty** | LLM-based Service Development & Automation |
-| **Education** | Ajou University (AI Convergence + e-Business) |
-| **Languages** | Korean (Native), English (Fluent), Spanish (Fluent) |
+| **Education** | Ajou University (e-Business + AI Convergence) |
+| **Languages** | Korean (Native), English (Fluent), Spanish (Middle) |
 | **Currently Seeking** | AI/ML Engineer, LLM Service Engineer, Data Engineer |
 
 ### 💡 Key Achievements
@@ -48,7 +48,7 @@
 
 ## 🤖 LLM & AI Services (Core Expertise)
 
-<div align="center">
+<div align="left">
 
 ### 🎨 LLM APIs & Models
   
@@ -71,7 +71,7 @@
 
 **Naver Clova TTS** - Voice synthesis integration for SnackCast podcast
 
-<div align="center">
+<div align="left">
 
 ### 🔗 AI Frameworks & Technologies
 
@@ -97,7 +97,7 @@
 
 ## 💻 Backend & Infrastructure
 
-<div align="center">
+<div align="left">
 
 ### 🌐 Backend Development
 
@@ -120,7 +120,7 @@
 
 **AWS**: IoT Core and Lambda for TurbinCrew real-time data pipeline
 
-<div align="center">
+<div align="left">
 
 ### 🗄️ Databases
 
@@ -132,7 +132,7 @@
 
 **Vector Databases:** Chroma, Pinecone (for RAG systems)
 
-<div align="center">
+<div align="left">
 
 ### 🛠️ Development Tools
 
@@ -287,11 +287,11 @@ Built FastAPI backend deployed on GCP Cloud Run for scalable service delivery
 
 ## 📫 Contact & Links
 
-<div align="center">
+<div align="left">
   
   [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaehyunkkang15634@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_ID)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](YOUR_NOTION_URL)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%9E%AC%ED%98%84-%EC%8B%A0-b26183272/)
+  <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](YOUR_NOTION_URL) -->
   
   <br>
   

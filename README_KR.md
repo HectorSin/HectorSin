@@ -28,8 +28,8 @@
 |---|---|
 | **직무** | AI Engineer |
 | **전문분야** | LLM 기반 서비스 개발 및 자동화 |
-| **학력** | 아주대학교 (AI융합학부 + e비즈니스학과 복수전공) |
-| **언어** | 한국어 (모국어), 영어 (유창), 스페인어 (유창) |
+| **학력** | 아주대학교 (e비즈니스학과 + AI 융합학과 복수전공) |
+| **언어** | 한국어 (모국어), 영어 (유창), 스페인어 (중급) |
 | **구직 중** | AI/ML 엔지니어, LLM 서비스 엔지니어, 데이터 엔지니어 |
 
 ### 💡 주요 성과
@@ -48,7 +48,7 @@
 
 ## 🤖 LLM & AI 서비스 (핵심 역량)
 
-<div align="center">
+<div align="left">
 
 ### 🎨 LLM API & 모델
 
@@ -71,7 +71,7 @@
 
 **Naver Clova TTS** - SnackCast 팟캐스트 음성 합성 통합
 
-<div align="center">
+<div align="left">
 
 ### 🔗 AI 프레임워크 & 기술
 
@@ -97,7 +97,7 @@
 
 ## 💻 백엔드 & 인프라
 
-<div align="center">
+<div align="left">
 
 ### 🌐 백엔드 개발
 
@@ -120,7 +120,7 @@
 
 **AWS**: TurbinCrew 실시간 데이터 파이프라인을 위한 IoT Core 및 Lambda 구축
 
-<div align="center">
+<div align="left">
 
 ### 🗄️ 데이터베이스
 
@@ -132,7 +132,7 @@
 
 **Vector DB:** Chroma, Pinecone (RAG 시스템용)
 
-<div align="center">
+<div align="left">
 
 ### 🛠️ 개발 도구
 
@@ -287,11 +287,11 @@ Google Cloud Platform 인프라 상에서 **프로덕션 배포** 완료
 
 ## 📫 연락처
 
-<div align="center">
+<div align="left">
   
   [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaehyunkkang15634@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_ID)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](YOUR_NOTION_URL)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%9E%AC%ED%98%84-%EC%8B%A0-b26183272/)
+  <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](YOUR_NOTION_URL) -->
   
   <br>
   
