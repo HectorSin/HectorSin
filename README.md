@@ -10,14 +10,8 @@
 </div>
 
 <div align="center">
-  <h1>👋 Hi, I'm Jaehyun Shin!</h1>
-  <h3>AI Service Engineer | LLM-Based Systems Developer</h3>
-  
-  <!-- <br>
-  <br>
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHectorSin&count_bg=%23667EEA&title_bg=%23764BA2&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com) -->
-  
+  <h1>👋 Hi, I'm Jaehyun Sin!</h1>
+  <h3>AI Service Engineer | LLM-Based Systems Developer</h3>  
 </div>
 
 <br>
@@ -34,9 +28,9 @@
 
 ### 💡 Key Achievements
 
-**FieldU** - 100% cost reduction via LLM automation
+**FilledU** - 100% cost reduction via LLM automation
 
-**TurbinCrew** - Built IoT → AWS → ML data pipeline  
+**TurbineCrew** - Built IoT → AWS → ML data pipeline  
 
 **SnackCast** - AI-powered news podcast generation service
 
@@ -56,6 +50,7 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Claude_API-181818?style=for-the-badge&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 </div>
 
@@ -70,6 +65,8 @@
 **Claude API** - High-quality text generation and analysis
 
 **Naver Clova TTS** - Voice synthesis integration for SnackCast podcast
+
+**Ollama** - Local LLM inference for tool development
 
 <div align="left">
 
@@ -153,20 +150,20 @@
 
 ## 💼 Professional Experience & Projects
 
-<div align="center">
+<div align="left">
 
 ### 🚀 Impact-Driven Projects
 
 | Project | Role | Key Achievement | Tech Stack |
 |---------|------|-----------------|------------|
-| **FieldU** 📚 | AI Service Intern | **100% cost reduction** in content generation | Gemini API, LangChain, Python |
-| **TurbinCrew** ⚡ | AI Service Intern | Built **IoT → Cloud → ML pipeline** | AWS IoT Core, Lambda, Python |
+| **FilledU** 📚 | AI Service Contract | **100% cost reduction** in content generation | Gemini API, LangChain, Python |
+| **TurbineCrew** ⚡ | AI Service Contract | Built **IoT → Cloud → ML pipeline** | AWS IoT Core, Lambda, Python |
 | **SnackCast** 📻 | Lead Developer | **AI news-to-podcast automation** | FastAPI, GCP, Multi-LLM APIs |
 
 </div>
 
 <details>
-<summary><b>📚 FieldU - Educational AI Startup (Internship)</b></summary>
+<summary><b>📚 FilledU - Educational AI Startup (Contract Position)</b></summary>
 
 <br>
 
@@ -193,7 +190,7 @@ Designed automated quality assurance pipeline ensuring consistent output standar
 </details>
 
 <details>
-<summary><b>⚡ TurbinCrew - Energy Tech Startup (Internship)</b></summary>
+<summary><b>⚡ TurbineCrew - Energy Tech Startup (Contract Position)</b></summary>
 
 <br>
 
@@ -246,8 +243,6 @@ Integrated Naver Clova TTS for natural-sounding Korean voice synthesis
 
 Built FastAPI backend deployed on GCP Cloud Run for scalable service delivery
 
-**🔗 Link:** [View Project Details](#) *(Coming soon)*
-
 </details>
 
 <br>
@@ -271,16 +266,9 @@ Built FastAPI backend deployed on GCP Cloud Run for scalable service delivery
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=HectorSin&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorSin&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff&langs_count=6" width="48%" />
-  
-  <br><br> -->
-  
+<div align="center">  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HectorSin&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=764ba2&currStreakLabel=764ba2" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HectorSin&theme=radical" width="98%" />
-  
 </div>
 
 <br>
@@ -291,8 +279,6 @@ Built FastAPI backend deployed on GCP Cloud Run for scalable service delivery
   
   [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaehyunkkang15634@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%9E%AC%ED%98%84-%EC%8B%A0-b26183272/)
-  <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](YOUR_NOTION_URL) -->
-  
   <br>
   
   ### 🌟 Currently Seeking Opportunities
@@ -323,7 +309,7 @@ Built FastAPI backend deployed on GCP Cloud Run for scalable service delivery
 
 **Ajou University** (Feb 2026)
 
-B.S. in **AI Convergence** (Major) | B.S. in **e-Business** (Double Major)
+B.S. in **e-Business** (Major) | B.S. in **AI Convergence** (Double Major)
 
 </div>
 

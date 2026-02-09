@@ -56,6 +56,7 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Claude_API-181818?style=for-the-badge&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 </div>
 
@@ -70,6 +71,8 @@
 **Claude API** - 고품질 텍스트 생성 및 분석
 
 **Naver Clova TTS** - SnackCast 팟캐스트 음성 합성 통합
+
+**Ollama** - 로컬 LLM 추론을 활용한 도구 개발
 
 <div align="left">
 
@@ -153,20 +156,20 @@
 
 ## 💼 실무 경험 & 프로젝트
 
-<div align="center">
+<div align="left">
 
 ### 🚀 임팩트 중심 프로젝트
 
 | 프로젝트 | 역할 | 주요 성과 | 기술 스택 |
 |---------|------|-----------|-----------|
-| **FieldU** 📚 | AI 서비스 인턴 | **콘텐츠 제작 비용 100% 절감** | Gemini API, LangChain, Python |
-| **TurbinCrew** ⚡ | AI 서비스 인턴 | **IoT → 클라우드 → ML 파이프라인 구축** | AWS IoT Core, Lambda, Python |
+| **FilledU** 📚 | AI 서비스 계약직 | **콘텐츠 제작 비용 100% 절감** | Gemini API, LangChain, Python |
+| **TurbineCrew** ⚡ | AI 서비스 계약직 | **IoT → 클라우드 → ML 파이프라인 구축** | AWS IoT Core, Lambda, Python |
 | **SnackCast** 📻 | 리드 개발자 | **AI 뉴스-팟캐스트 자동화 서비스** | FastAPI, GCP, Multi-LLM APIs |
 
 </div>
 
 <details>
-<summary><b>📚 FieldU - 교육 AI 스타트업 (인턴)</b></summary>
+<summary><b>📚 FilledU - 교육 AI 스타트업 (계약직)</b></summary>
 
 <br>
 
@@ -193,7 +196,7 @@
 </details>
 
 <details>
-<summary><b>⚡ TurbinCrew - 에너지 테크 스타트업 (인턴)</b></summary>
+<summary><b>⚡ TurbineCrew - 에너지 테크 스타트업 (계약직)</b></summary>
 
 <br>
 
@@ -246,8 +249,6 @@ Google Cloud Platform 인프라 상에서 **프로덕션 배포** 완료
 
 확장 가능한 서비스 제공을 위해 GCP Cloud Run에 배포된 FastAPI 백엔드 구축
 
-**🔗 링크:** [프로젝트 상세 보기](#) *(추후 추가)*
-
 </details>
 
 <br>
@@ -271,16 +272,9 @@ Google Cloud Platform 인프라 상에서 **프로덕션 배포** 완료
 
 ## 📊 GitHub 통계
 
-<div align="center">
-  
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=HectorSin&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorSin&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff&langs_count=6" width="48%" />
-  
-  <br><br> -->
-  
+<div align="center">  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HectorSin&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=764ba2&currStreakLabel=764ba2" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HectorSin&theme=radical" width="98%" />
-  
 </div>
 
 <br>
@@ -291,8 +285,6 @@ Google Cloud Platform 인프라 상에서 **프로덕션 배포** 완료
   
   [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaehyunkkang15634@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%9E%AC%ED%98%84-%EC%8B%A0-b26183272/)
-  <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](YOUR_NOTION_URL) -->
-  
   <br>
   
   ### 🌟 현재 구직 중
@@ -323,7 +315,7 @@ Google Cloud Platform 인프라 상에서 **프로덕션 배포** 완료
 
 **아주대학교** (2026년 2월 졸업)
 
-**AI융합학부** (주전공) | **e비즈니스학과** (복수전공)
+**e비즈니스학과** (주전공) | **AI융합학부** (복수전공)
 
 </div>
 
